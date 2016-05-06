@@ -4,7 +4,7 @@
 ###CONTAINS
 
 ####hw6_1.f90:  
-				**叉乘计算**
+				叉乘计算
 ####hw6_3.f90:  
 				计算阶乘及e_val
 ####hw6_4.f90:  
@@ -25,3 +25,6 @@
 				龙格-库塔插值
 ####full_select.f90:  
 				最小组合选择
+				
+				
+**This page is for fortran programming language**
