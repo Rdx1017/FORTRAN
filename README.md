@@ -1,5 +1,5 @@
 # FORTRAN 
-##FORTRAN HOMEWORK CD
+##FORTRAN HOMEWORK SC
 -------------------------------------------------------------------------------
 ###CONTAINS
 
