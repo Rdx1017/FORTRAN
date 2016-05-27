@@ -1,4 +1,7 @@
 # FORTRAN
+
+## USING_FORTRAN.md contains the basic grammer of FORTRAN. 
+
 ##FORTRAN HOMEWORK SC
 -------------------------------------------------------------------------------
 ###CONTAINS
@@ -27,11 +30,11 @@
 				最小组合选择
 
 ##FORTRAN library
-### isPrime.f90
+#### isPrime.f90
 				判断参数是否是素数
-### min_prime_factor.f90
+#### min_prime_factor.f90
 				查找参数的最小素因子
-### mut_primer_minFact.f90
+#### mut_primer_minFact.f90
 				两个或三个数的公共最小素因子（INTERFACE实现）
-### mut_MPF.f90
+#### mut_MPF.f90
 				两个或三个数的最小公共素因子（MODULE实现）
